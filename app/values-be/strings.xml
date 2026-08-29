@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <!--
   ~ This file is part of LSPosed.
   ~
@@ -16,13 +17,16 @@
   ~
   ~ Copyright (C) 2021 LSPosed Contributors
   -->
-
 <resources xmlns:tools="http://schemas.android.com/tools" tools:keep="@string/xposed_module_updated_notification_*,@string/module_is_not_activated_*">
     <!-- MainActivity -->
     <string name="overview">Агляд</string>
     <string name="Modules">Модулі</string>
     <string name="Logs">Журналы</string>
-    <string name="Settings">Налады</string> <string name="About">Аб праекце</string> <string name="module_repo">Рэпазітар</string> <string name="about_send_bug_report">Адправіць справаздачу аб памылцы</string> <string name="bug_report_message">Коратка апішыце праблему</string>
+    <string name="Settings">Налады</string> 
+    <string name="About">Аб праекце</string> 
+    <string name="module_repo">Рэпазітар</string> 
+    <string name="about_send_bug_report">Адправіць справаздачу аб памылцы</string>  
+    <string name="bug_report_message">Коратка апішыце праблему</string>
     <string name="bug_report_exporting_logs">Экспарт журналаў…</string>
     <string name="about_join_telegram">Далучыцца да канала Telegram</string>
     <string name="email_address_copied">Адрас электроннай пошты скапіраваны</string>
@@ -46,7 +50,10 @@
     <string name="info_device">Прылада</string>
     <string name="info_system_abi">Сістэмны ABI</string>
     <string name="info_dex2oat_wrapper">Абалонка аптымізатара Dex</string>
-    <string name="enabled">Уключана</string> <string name="not_enabled">Не ўключана</string> <string name="supported">Падтрымліваецца</string> <string name="unsupported">Не падтрымліваецца</string> <string name="mounted">Устаўлена</string> <string name="injected">Уведзена</string> <string name="android_version_unsatisfied">Версія Android нездавальняючая</string> <string name="crashed">Збой</string> <string name="mount_failed">Памылка мантавання</string>
+    <string name="enabled">Уключана</string> <string name="not_enabled">Не ўключана</string> <string name="supported">Падтрымліваецца</string> 
+    <string name="unsupported">Не падтрымліваецца</string> <string name="mounted">Устаўлена</string> 
+    <string name="injected">Уведзена</string> <string name="android_version_unsatisfied">Версія Android нездавальняючая</string> 
+    <string name="crashed">Збой</string> <string name="mount_failed">Памылка мантавання</string>
     <string name="info_copied">Скапіявана ў буфер абмену</string>
     <string name="touch_filtered_warning">Паколькі праграма засланяе інтэрфейс, Manager не можа праверыць ваш адказ.</string>
 
@@ -184,7 +191,8 @@
     <string name="menu_share">Падзяліцца</string>
     <string name="module_release_load_more">Паказаць старыя версіі</string>
     <string name="module_release_no_more">Больш няма выпускаў</string>
-    <string name="sort_upgradable_first">Спачатку абнаўляюцца</string> <string name="installed">Усталяваныя</string>
+    <string name="sort_upgradable_first">Спачатку абнаўляюцца</string> 
+    <string name="installed">Усталяваныя</string>
     <plurals name="module_release_assets_download_count">
         <item quantity="one">%d спампоўвання</item>
         <item quantity="other">%d спампоўванняў</item>
