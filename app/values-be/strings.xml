@@ -53,7 +53,8 @@
     <string name="enabled">Уключана</string> <string name="not_enabled">Не ўключана</string> <string name="supported">Падтрымліваецца</string> 
     <string name="unsupported">Не падтрымліваецца</string> <string name="mounted">Устаўлена</string> 
     <string name="injected">Уведзена</string> <string name="android_version_unsatisfied">Версія Android нездавальняючая</string> 
-    <string name="crashed">Збой</string> <string name="mount_failed">Памылка мантавання</string>
+    <string name="crashed">Збой</string> 
+    <string name="mount_failed">Памылка мантавання</string>
     <string name="info_copied">Скапіявана ў буфер абмену</string>
     <string name="touch_filtered_warning">Паколькі праграма засланяе інтэрфейс, Manager не можа праверыць ваш адказ.</string>
 
@@ -104,7 +105,8 @@
     <string name="compile_done">Аптымізацыя завершана</string>
     <string name="app_launch">Запусціць</string>
     <string name="compile_failed">Аптымізацыя не ўдалася: вяртаецца пустое значэнне</string>
-    <string name="compile_failed_with_info">Аптымізацыя не ўдалася: </string> <string name="sort_by_name">Назва праграмы</string>
+    <string name="compile_failed_with_info">Аптымізацыя не ўдалася: </string> \
+    <string name="sort_by_name">Назва праграмы</string>
     <string name="sort_by_package_name">Назва пакета</string>
     <string name="sort_by_install_time">Час усталёўкі</string>
     <string name="sort_by_update_time">Час абнаўлення</string>
