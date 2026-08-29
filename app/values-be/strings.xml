@@ -69,7 +69,7 @@
     <string name="menuClearLog">Ачысціць журнал зараз</string>
     <string name="scroll_top">Прагарнуць уверх</string>
     <string name="scroll_bottom">Прагарнуць уніз</string>
-    <string name="menu_enable_word_wrap">Word Абгортка</string>
+    <string name="menu_enable_word_wrap">Перанос тэксту</string>
 
     <!-- ModulesActivity -->
     <string name="warning_xposed_min_version">Гэты модуль патрабуе больш новую версію Xposed (%d) і таму не можа быць актываваны</string>
