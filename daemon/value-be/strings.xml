@@ -4,11 +4,11 @@
     <string name="list_separator">, </string>
     <string name="module_is_not_activated_yet">Xposed модуль яшчэ не актываваны</string>
     <string name="module_is_not_activated_yet_main_user_detailed">%1$s быў усталяваны, але яшчэ не актываваны</string>
-    <string name="module_is_not_activated_yet_multi_user_detailed">%1$s быў усталяваны карыстачу %2$s, but is not activated yet</string>
+    <string name="module_is_not_activated_yet_multi_user_detailed">%1$s быў усталяваны карыстачу %2$s, але яшчэ не актываваны/string>
     <string name="xposed_module_updated_notification_title">Xposed абноўлены модуль</string>
     <string name="xposed_module_updated_notification_title_system">Xposed модуль абноўлены, патрабуецца перазагрузка сістэмы</string>
     <string name="xposed_module_updated_notification_content">%s быў абноўлены, калі ласка, прымусова спыняйце і перазапускайце прыкладання ў яго рамках</string>
-    <string name="xposed_module_updated_notification_content_system">%s быў абноўлен, паколькі вобласць прымянення змяшчае Сістэмную Інфраструктуру, для прымянення змяненняў патрабуецца перазагрузка</string>
+    <string name="xposed_module_updated_notification_content_system">%s быў абноўлены, паколькі вобласць прымянення змяшчае Сістэмную Інфраструктуру, для прымянення змяненняў патрабуецца перазагрузка</string>
     <string name="xposed_module_updated_notification_reload">%1$s быў абноўлены, %2$s</string>
     <string name="xposed_module_updated_notification_reload_none">%s быў абноўлены</string>
     <plurals name="xposed_module_updated_notification_reload_reloaded">
